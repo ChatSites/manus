@@ -53,7 +53,7 @@ export default function Home() {
                 <div className="space-y-4">
                   <div className="bg-gray-800 rounded-lg p-4">
                     <p className="text-purple-300 font-medium">AI Assistant</p>
-                    <p>Hello! I'm your ChatSites assistant. How can I help you today?</p>
+                    <p>Hello! I&rsquo;m your ChatSites assistant. How can I help you today?</p>
                   </div>
                   <div className="bg-gray-800 rounded-lg p-4 ml-12">
                     <p className="text-blue-300 font-medium">You</p>
@@ -61,7 +61,7 @@ export default function Home() {
                   </div>
                   <div className="bg-gray-800 rounded-lg p-4">
                     <p className="text-purple-300 font-medium">AI Assistant</p>
-                    <p>I'd be happy to explain our booking features! ChatSites offers seamless appointment scheduling, reservation management, and calendar integration. Would you like to see a demo?</p>
+                    <p>I&rsquo;d be happy to explain our booking features! ChatSites offers seamless appointment scheduling, reservation management, and calendar integration. Would you like to see a demo?</p>
                   </div>
                 </div>
                 <div className="mt-6 flex items-center bg-gray-800 rounded-full p-2">
@@ -86,8 +86,8 @@ export default function Home() {
             <div className="w-full lg:w-1/2">
               <h3 className="text-2xl font-bold mb-4">Voice-First Experience</h3>
               <p className="mb-6">
-                Our AI assistant communicates via both text and voice, powered by a realistic voice engine. The pulsating orb represents the AI's listening and thinking state.
-              </p>
+              Our AI assistant communicates via both text and voice, powered by a realistic voice engine. The pulsating orb represents the AI&rsquo;s listening and thinking state.
+</p>
               <h3 className="text-2xl font-bold mb-4">Intelligent Interactions</h3>
               <p className="mb-6">
                 The AI guides users through simulated customer interactions, showing how businesses can use ChatSites to answer questions, show dynamic assets, and complete tasks.
